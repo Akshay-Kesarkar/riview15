@@ -22,7 +22,7 @@ compatible for python 3.6 version
 
 ----------------------------------------------------------
 
-3. Change your ID and password in related filed for database
+3. Change your ID and password in related like database
 
 4. Do Heroku deployment from your account store it in your Git Hub 
 

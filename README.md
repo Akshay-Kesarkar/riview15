@@ -12,7 +12,9 @@ Search for iphone or samsung etc as you search on flipkart
 
 How to run project 
 
-1. Open project and install  requirements.txt
+compatible for python 3.6 version
+1. Open project and pip install -r requirements.txt
+
 
 --------------------------------------------------------
 
